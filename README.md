@@ -1,2 +1,2 @@
-# HTML-NewYork times bog
+# HTML-NewYork times blog
 using codecamy example
